@@ -1,6 +1,12 @@
 # **Path-Planning-Project**
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
+---
+
+This repo contains my solution to the Path-Planning Project for Udacity's Self-Driving Car Engineer Nanodegree Program.
+
+---
+
 ## Reflections
 My path planner is built on top of the [starter project](https://github.com/udacity/CarND-Path-Planning-Project) by udacity. 
 
